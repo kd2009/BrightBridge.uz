@@ -1,0 +1,16 @@
+[13-Mar-2025 14:04:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/brightbr/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/routes/channels.php on line 14
+[26-Mar-2025 13:03:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/brightbr/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/routes/api.php on line 16
+[30-Mar-2025 12:47:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/brightbr/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/routes/console.php on line 16
+[31-Mar-2025 05:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/brightbr/public_html/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/routes/web.php on line 5

@@ -1,0 +1,4 @@
+[06-May-2025 19:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/brightbr/public_html/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/database/factories/UserFactory.php on line 19

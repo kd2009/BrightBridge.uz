@@ -1,0 +1,4 @@
+[01-May-2025 18:43:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/brightbr/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Http/Kernel.php on line 7

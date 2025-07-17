@@ -1,0 +1,60 @@
+[28-Mar-2025 12:08:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/brightbr/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/RouteServiceProvider.php on line 8
+[04-Apr-2025 10:22:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php on line 8
+[04-Apr-2025 10:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php on line 8
+[06-Apr-2025 03:58:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php on line 8
+[07-Apr-2025 03:49:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php on line 8
+[08-Apr-2025 01:58:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[08-Apr-2025 03:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php on line 8
+[09-Apr-2025 03:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php on line 8
+[09-Apr-2025 04:43:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AuthServiceProvider.php on line 8
+[09-Apr-2025 08:24:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[10-Apr-2025 08:23:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[11-Apr-2025 08:22:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[12-Apr-2025 08:24:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[22-Apr-2025 15:53:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/brightbr/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/AppServiceProvider.php on line 7
+[23-Apr-2025 13:58:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/brightbr/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Providers/EventServiceProvider.php on line 10

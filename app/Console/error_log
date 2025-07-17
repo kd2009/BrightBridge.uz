@@ -1,0 +1,4 @@
+[10-May-2025 03:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/brightbr/public_html/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Console/Kernel.php on line 8

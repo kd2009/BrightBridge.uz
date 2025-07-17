@@ -1,0 +1,17 @@
+[13-May-2025 02:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/brightbr/public_html/resources/views/pages/single-blog.blade.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/resources/views/pages/single-blog.blade.php on line 68
+[01-Jun-2025 11:46:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/blog.blade.php on line 24
+[01-Jun-2025 11:46:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/blog.blade.php on line 62
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 112
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 175
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 215
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 292
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 306
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 331
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 345
+[06-Jun-2025 16:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/index.blade.php on line 486
+[15-Jun-2025 05:56:40 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/brightbr/public_html/resources/views/pages/contact_process.php on line 35
+[15-Jun-2025 09:47:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/newscategory.blade.php on line 26
+[15-Jun-2025 09:47:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/brightbr/public_html/resources/views/pages/newscategory.blade.php on line 66

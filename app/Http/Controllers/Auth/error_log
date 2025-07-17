@@ -1,0 +1,4 @@
+[03-Jul-2025 00:35:25 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/brightbr/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8

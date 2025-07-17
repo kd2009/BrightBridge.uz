@@ -1,0 +1,244 @@
+[06-Feb-2025 15:19:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[06-Feb-2025 15:19:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[10-Feb-2025 17:01:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/brightbr/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/User.php on line 9
+[10-Feb-2025 17:01:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Registry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Registry.php on line 7
+[10-Feb-2025 17:01:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Registry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Registry.php on line 7
+[10-Feb-2025 17:01:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/brightbr/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/User.php on line 9
+[10-Feb-2025 19:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Registry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Registry.php on line 7
+[11-Feb-2025 19:42:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Registry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Registry.php on line 7
+[12-Feb-2025 20:02:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Registry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Registry.php on line 7
+[13-Feb-2025 19:59:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Registry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Registry.php on line 7
+[07-Mar-2025 05:42:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobs.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobs.php on line 6
+[09-Mar-2025 22:32:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Trainings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Trainings.php on line 7
+[14-Mar-2025 16:37:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Category.php on line 7
+[14-Mar-2025 18:52:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Applications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Applications.php on line 7
+[16-Mar-2025 18:14:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Applications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Applications.php on line 7
+[16-Mar-2025 18:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Applications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Applications.php on line 7
+[17-Mar-2025 18:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Applications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Applications.php on line 7
+[18-Mar-2025 18:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Applications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Applications.php on line 7
+[19-Mar-2025 19:07:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Applications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Applications.php on line 7
+[20-Mar-2025 08:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/News.php on line 7
+[20-Mar-2025 19:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Applications.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Applications.php on line 7
+[22-Mar-2025 05:49:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/News.php on line 7
+[22-Mar-2025 06:26:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/News.php on line 7
+[24-Mar-2025 05:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/News.php on line 7
+[25-Mar-2025 05:47:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/News.php on line 7
+[25-Mar-2025 06:55:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Newscategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Newscategory.php on line 7
+[26-Mar-2025 05:47:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/News.php on line 7
+[26-Mar-2025 17:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Newscategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Newscategory.php on line 7
+[26-Mar-2025 18:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Newscategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Newscategory.php on line 7
+[27-Mar-2025 17:53:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Newscategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Newscategory.php on line 7
+[28-Mar-2025 17:49:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Newscategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Newscategory.php on line 7
+[29-Mar-2025 17:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Newscategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Newscategory.php on line 7
+[29-Mar-2025 18:43:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Newscategory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Newscategory.php on line 7
+[30-Mar-2025 08:13:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobgivers.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobgivers.php on line 7
+[31-Mar-2025 23:24:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobgivers.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobgivers.php on line 7
+[01-Apr-2025 00:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobgivers.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobgivers.php on line 7
+[01-Apr-2025 23:24:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobgivers.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobgivers.php on line 7
+[03-Apr-2025 00:26:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobgivers.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobgivers.php on line 7
+[05-Apr-2025 00:07:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobgivers.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobgivers.php on line 7
+[05-Apr-2025 01:01:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobgivers.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobgivers.php on line 7
+[06-Apr-2025 23:42:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[08-Apr-2025 09:53:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[08-Apr-2025 11:28:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[09-Apr-2025 01:39:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/brightbr/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/User.php on line 9
+[09-Apr-2025 04:30:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/brightbr/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/User.php on line 9
+[09-Apr-2025 09:51:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[10-Apr-2025 01:39:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/brightbr/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/User.php on line 9
+[10-Apr-2025 09:50:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[11-Apr-2025 01:39:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/brightbr/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/User.php on line 9
+[11-Apr-2025 09:50:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[11-Apr-2025 10:46:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Company.php on line 7
+[25-Apr-2025 09:12:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Registry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Registry.php on line 7
+[25-Apr-2025 10:10:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Category.php on line 7
+[26-Apr-2025 08:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Category.php on line 7
+[27-Apr-2025 06:04:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobs.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobs.php on line 6
+[27-Apr-2025 08:43:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Category.php on line 7
+[27-Apr-2025 08:46:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobs.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobs.php on line 6
+[27-Apr-2025 15:08:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Category.php on line 7
+[04-May-2025 15:25:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/brightbr/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/User.php on line 9
+[09-May-2025 06:19:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Trainings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Trainings.php on line 7
+[28-May-2025 18:54:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/brightbr/public_html/app/Jobs.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/app/Jobs.php on line 6

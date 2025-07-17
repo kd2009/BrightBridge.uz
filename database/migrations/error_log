@@ -1,0 +1,4 @@
+[11-May-2025 00:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/brightbr/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/brightbr/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
